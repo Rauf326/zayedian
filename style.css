@@ -14,8 +14,9 @@ text-transform: capitalize;
 .nav-link{
   color: white !important;
 }
-.btn:hover{
+.form-inline a:hover{
   background-color: #FFA726 !important;
+  color: white !important;
 }
 .btn{
   color: white !important;
@@ -70,7 +71,14 @@ color: #FFA726 !important;
   color: white;
 }
 
+#box1 button:hover{
+  background-color: #FFA726 !important;
+}
 /* end service */
+
+#team:hover{
+  background-color: #FFA726 !important;
+}
 
 #teamplayer{
   box-shadow: 2px 4px 3px #FFA726 !important;
@@ -119,7 +127,7 @@ align-items: center !important;
 }
 
 .card img{
-  box-shadow: 2px 2px 2px 1px   #1DE9B6  !important;
+  box-shadow: 2px 2px 2px 1px   #1   !important;
 }
 
 .card img:hover{
@@ -136,4 +144,8 @@ align-items: center !important;
 
 .footer ul li{
   margin: 5px !important;
+}
+
+iframe{
+  box-shadow: 5px 2px 5px 2px ;
 }
