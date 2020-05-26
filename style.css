@@ -1,0 +1,139 @@
+body{
+font-family:Georgia, 'Times New Roman', Times, serif !important;
+text-transform: capitalize;
+}
+/* Start Navbar */
+.navbar{
+  background-color: #80CBC4 !important;
+}
+.navbar a:hover{
+ color:#FFA726 !important;
+ border-radius: 5px;
+
+}
+.nav-link{
+  color: white !important;
+}
+.btn:hover{
+  background-color: #FFA726 !important;
+}
+.btn{
+  color: white !important;
+  border-color: white !important;
+}
+.dropdown-menu{
+  background-color: #80CBC4  !important;
+  
+}
+.dropdown-item:hover{
+  color:white !important ;
+ 
+  
+}
+.dropdown-item{
+  color: white !important;
+}
+.navbar-toggler{
+  border-color: white !important;
+ 
+}
+
+/* End Navbar */
+
+
+/* Start Slider */
+
+.carousel-caption p{
+ font-size: 20px;
+text-transform: capitalize;
+color: #FFA726 !important;
+}
+
+.carousel-caption h1{
+  color: #1DE9B6;
+  
+}
+
+
+
+/* End Slider */
+
+/* Start Services */
+
+#box1{
+  box-shadow: 2px 3px 3px #FFA726 !important;
+  background-color:#80CBC4;
+  color: white;
+}
+#box1:hover{
+  background-color: #42A5F5;
+  color: white;
+}
+
+/* end service */
+
+#teamplayer{
+  box-shadow: 2px 4px 3px #FFA726 !important;
+}
+
+#buttonteam:hover{
+  background-color: #FFA726 !important;
+  color: white !important;
+}
+#buttonteam{ 
+  border-color: #80CBC4 !important;
+  color: #80CBC4 !important;
+align-items: center !important;
+}
+
+#clientbox{
+  box-shadow: 1px 2px 3px 0px #FFA726 !important;
+}
+
+#clientimg{
+  box-shadow: 1px 1px 1px 2px   #D84315 !important;
+}
+
+.card{
+  box-shadow:  3px 3px 2px #FFA726 !important; 
+}
+
+.card:hover{
+  background-color: #80CBC4;
+  color: white;
+}
+
+.card a{
+  color: #1DE9B6 !important;
+  border-color:#1DE9B6 !important;
+}
+
+.card a:hover{
+  color: white !important;
+  border-color:#1DE9B6 !important;
+}
+
+.card:hover a{
+  color: white !important;
+  border-color: white !important;
+}
+
+.card img{
+  box-shadow: 2px 2px 2px 1px   #1DE9B6  !important;
+}
+
+.card img:hover{
+  box-shadow: 2px 2px 2px 1px #D84315 !important;
+}
+.fa{
+  font-size: 22px !important;
+  margin: 2px;
+}
+
+.fa:hover{
+  color: #424242 !important;
+}
+
+.footer ul li{
+  margin: 5px !important;
+}
